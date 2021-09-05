@@ -12,3 +12,9 @@ It uses the the [Our World In Data](https://ourworldindata.org/explorers/coronav
 4. When running the "SAVE PLOTS" cell, you'll be prompted to answer whether you want to download the plots or not. Answer `y` for "yes" and `n` for "no".
 5. The last cell contains examples for plotting different graphs. Also it contains examples on how to change the population, how to get the list of countries, fields. etc. Uncomment any example by removing the `#` symbol in the beginning of the line (and all trailing spaces), or by pressing `Ctrl + #` while the cursor is on the needed line. Craft the function parameters according to the instructions and run the cell.
 6. You can add additional cells and run your own code there.
+
+# Contribution
+I'm open to any pull requests, and especially to:
+- Bugfixes;
+- New types of graphs;
+- Enhancements (better display, more customization) of the current graphs;
