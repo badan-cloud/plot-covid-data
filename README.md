@@ -8,9 +8,7 @@ It uses the the [Our World In Data](https://ourworldindata.org/explorers/coronav
 # Instructions
 1. Open the Google Colab notebook by going to [this](https://colab.research.google.com/github/badan-cloud/plot-covid-graphs/blob/main/plot-covid-graphs.ipynb) url.
 2. Click the `Runtime` menu item > `Run all`, or press `Ctrl + F9`.
-3. You'll get a message about this notebook not being authored by Google. Run it anyway.
-4. Alternatively you can run the cells one by one. You'll see a lot of code boxes (cells). A ▶ (Play) button appears when you hover your mouse over a cell. Click this button to run the cell (or you could run Ctrl + Enter to run the current cell). Run the cells **in order from top to bottom**.
-5. The last cell contains examples for plotting different graphs. Also it contains examples on how to change the population, how to get the list of countries, fields. etc. Uncomment any example by removing the `#` symbol in the beginning of the line (and all trailing spaces), or by pressing `Ctrl + /` while the cursor is on the needed line. Craft the function parameters according to the instructions and run the cell.
+3. The before last cell contains examples for plotting different graphs. Also it contains examples on how to change the population, how to get the list of countries, fields. etc. Uncomment any example by removing the `#` symbol in the beginning of the line (and all trailing spaces), or by pressing `Ctrl + /` while the cursor is on the needed line. Craft the function parameters according to the instructions and run the cell.
 6. You can add additional cells and run your own code there.
 
 # Contribution
